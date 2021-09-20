@@ -1,0 +1,14 @@
+Package: flowkey
+Type: Package
+Title: Flowkey R Utilities
+Version: 0.0.1
+Date: 2021-09-20
+Author: Nikola Chochkov
+Maintainer: Nikola Chochkov <nikola@flowkey.com>
+Description: Collects common and repeated tasks into functions.
+License: MIT License
+Depends:
+    data.table,ggplot2,DT
+Collate:
+    'functions.R'
+RoxygenNote: 7.1.1
